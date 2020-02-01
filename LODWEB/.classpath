@@ -17,9 +17,9 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="E:/Ramon - UFBA/IC - UFBA/apache-commons-lang.jar"/>
-	<classpathentry kind="lib" path="E:/Ramon - UFBA/IC - UFBA/jawjaw-1.0.2.jar"/>
-	<classpathentry kind="lib" path="E:/Ramon - UFBA/IC - UFBA/org.apache.xerces-2.9.0.jar"/>
-	<classpathentry kind="lib" path="E:/Ramon - UFBA/IC - UFBA/ws4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="jawjaw-1.0.2.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="ws4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="xerces-2.9.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

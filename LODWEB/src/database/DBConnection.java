@@ -61,6 +61,10 @@ public class DBConnection extends Object {
 			//Lodica.print(USERNAME);
 			//Lodica.print(PASSWORD);
 			//Lodica.print(url);
+			
+			Connection connect = DriverManager.getConnection("jdbc:mysql://172.17.0.2:3306/lod","root","junior");
+
+			
 			con = DriverManager.getConnection(url, IDatabaseConstants.DB_USERNAME,  IDatabaseConstants.DB_PASSWORD);
 			
 		} catch (Exception e) {

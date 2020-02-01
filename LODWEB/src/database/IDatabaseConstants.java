@@ -36,7 +36,7 @@ public abstract class IDatabaseConstants {
 	 * 
 	 */
 	//public static String DB_IP_ADDRESS = "localhost";
-	public static String DB_IP_ADDRESS = "127.0.0.1";
+	public static String DB_IP_ADDRESS = "172.17.0.2";
 	/**
 	 * 
 	 */
@@ -51,7 +51,7 @@ public abstract class IDatabaseConstants {
 	/**
 	 * 
 	 */
-	public static String DB_PASSWORD = "kyugin";
+	public static String DB_PASSWORD = "junior";
 	//public String DB_PASSWORD = "BHU*nji9";
 	//public static String DB_PASSWORD = "durao";
 
